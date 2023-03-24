@@ -1,0 +1,8 @@
+print("\t\t\t\tSTUDENT INFORMATION")
+print("\t\t- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
+print("\t\t\t\tNAME\t : Karthi")
+print("\t\t\t\tAGE\t : 29")
+print("\t\t\t\tEMAIL\t : krtkn.gmail")
+print("\t\t\t\tADDRESS\t : 12, A madurai")
+print("\t\t\t\tMOBILE NO: 945528555")
+print("\t\t- - - - - - - - - - - - - - - - - - - - - - - - - - - - - -")
