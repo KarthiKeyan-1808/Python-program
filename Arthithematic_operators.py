@@ -6,7 +6,8 @@ b=int(input("Please enter the value of b "))
 rectangle=l*b
 print("\nArea of Rectangle =",rectangle)
 print("-----------------")
-#Area of square
+
+#Area of Square
 print("\n\nArea of Square")
 print("------------------")
 a=int(input("Please enter the value of a "))
