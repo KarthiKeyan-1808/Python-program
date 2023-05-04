@@ -24,6 +24,11 @@ else:
         print("False")
 
 
+#make_pi
+pi=[3,1,4]
+Print(pi)
+
+
 #common_end
 list1=[]
 range1=int(input("Please enter the list range "))
