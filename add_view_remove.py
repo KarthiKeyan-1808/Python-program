@@ -19,14 +19,17 @@ while True:
             print(i)
 
     def remove():
-        name=input("Please enter the name to remove: ")
-        if name in names:
-            names.remove(name)
-        else:
-            print("Name not found")
+            name=input("Please enter the name to remove: ")
+            if name in names:
+              names.remove(name)
+            else:
+                print("Name not found")
 
     def exit():
         print("Thanks!")
+
+    def invalid():
+        print("Please enter a valid choice")
 
 
     if choice==1:
@@ -38,3 +41,5 @@ while True:
     if choice==4:
         exit()
         break
+    if choice!=1 or 2 or 3 or 4:
+        invalid()
